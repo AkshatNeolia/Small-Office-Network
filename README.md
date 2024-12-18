@@ -56,20 +56,7 @@ The project focuses on the design and implementation of a **Small Office Network
 - VLANs effectively enhance security and optimize network traffic.
 - Importance of testing configurations in a simulation environment.
 - Proper monitoring and documentation ensure efficient troubleshooting.
-
-## Authors
-- **Akshat Neolia** [RA2211031010080]
-- **Priyanshu Kumar** [RA2211031010084]
-- **Tarang Bhargava** [RA2211031010099]
-
-## Acknowledgements
-- **Supervisors**: Dr. C. Fancy, Dr. M. Lakshmi
-- **Institution**: SRM Institute of Science and Technology, Department of Networking and Communications
-
+- 
 ## References
 - [Cisco Documentation on VLANs and Inter-VLAN Routing](https://www.cisco.com/c/en/us/support/docs/lan-switching/inter-vlan-routing/41860-howto-L3-intervlanrouting.html)
 - T. Lammle, *CCNA Routing and Switching Study Guide*, Sybex, 2016.
-
----
-
-This repository provides insights into the practical implementation of a small office network. Feel free to explore the configurations and adapt them for similar use cases.
