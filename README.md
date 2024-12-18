@@ -1,4 +1,4 @@
-# Small Office Networks: A Case Study on Network Congestion Solutions
+# Small Office Networks (Computer Networks)
 
 ## Project Overview
 
