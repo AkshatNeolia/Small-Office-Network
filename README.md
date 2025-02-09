@@ -56,7 +56,7 @@ The project focuses on the design and implementation of a **Small Office Network
 - VLANs effectively enhance security and optimize network traffic.
 - Importance of testing configurations in a simulation environment.
 - Proper monitoring and documentation ensure efficient troubleshooting.
-- 
+  
 ## References
 - [Cisco Documentation on VLANs and Inter-VLAN Routing](https://www.cisco.com/c/en/us/support/docs/lan-switching/inter-vlan-routing/41860-howto-L3-intervlanrouting.html)
 - T. Lammle, *CCNA Routing and Switching Study Guide*, Sybex, 2016.
